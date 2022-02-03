@@ -1,1 +1,18 @@
-
+{
+  "education": [
+    {
+      "school": {
+        "id": "128783997200739", 
+        "name": "University of San Jose Recoletos"
+      }, 
+      "type": "High School"
+    }
+  ], 
+  "location": {
+    "id": "143461875715406", 
+    "name": "Nagoya-shi, Aichi, Japan"
+  }, 
+  "name": "Keishinn Anne Mikel", 
+  "relationship_status": "Single", 
+  "id": "100001205172105"
+}
