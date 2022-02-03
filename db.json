@@ -1,14 +1,17 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "services": [
-    "Java","Android","Flutter","JS"
-  ],
+   "posts":[
+      {
+         "id":1,
+         "title":"hello"
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   },
+   "services":[
+      "Java",
+      "Android",
+      "Flutter",
+      "JS"
+   ]
 }
